@@ -1,2 +1,1 @@
-# techdegree project 1
- number game
+I started off the game by printing a welcome message and then I stored a random number which a range of 1 to 10. Then I asked the user to choose a number value between one and ten, with random being the correct answer. Then if the user inputs a number, I turn it into an integer, or if they input a word I print an error message. Then if the player's guess does not equal the answer, I take their guess and tell them if their response was higher or lower to the correct answer, and then I prompt them to try again. Then once they get the correct answer, they are shown a closing message which tells them how many attempts it took, and then the program closes 
